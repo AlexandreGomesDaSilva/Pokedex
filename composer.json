@@ -1,0 +1,15 @@
+{
+    "name": "student/pokedex",
+    "require": {
+        "altorouter/altorouter": "^1.2"
+    },
+    "autoload": {
+        "psr-4": {"Pokedex\\": "app/"}
+    },
+    "authors": [
+        {
+            "name": "AlexandreGomesDaSilva",
+            "email": "alexgds92@gmail.com"
+        }
+    ]
+}
